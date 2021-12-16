@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      database: demo_docker_biblioteca
+      port: 27017
+      host: mongo
